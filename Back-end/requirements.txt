@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pyqrcode
+pypng
+python-jose
+python-multipart
+Pillow
+aiofiles
+requests
